@@ -21,7 +21,7 @@
     "esprima": "^2.5.0",
     "falafel": "^2.0.0",
     "glob": "^7.1.0",
-    "jade": "^1.11.0",
+    "jade": "git+https://github.com/gdibble/jade.git#1.11.01",
     "lodash": "^4.16.2",
     "minimatch": "^3.0.3",
     "minimist": "^1.1.3",
